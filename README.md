@@ -1,5 +1,4 @@
 ## 🔥 Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iwano123&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/apiiwano123anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iwano123&layout=compact&theme=tokyonight)
